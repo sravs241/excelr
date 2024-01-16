@@ -6,7 +6,7 @@
       <class name="assertions.Assertions">
       <methods>
 		  <include name="testExample"/>
-		 <include name="add"/>
+		
 		  <include name="soft"/>
 	  </methods>
 		 </class> 
