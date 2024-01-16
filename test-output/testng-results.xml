@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-16T23:15:55 IST" name="Default suite" finished-at="2024-01-16T23:15:55 IST" duration-ms="102">
+    <groups>
+    </groups>
+    <test started-at="2024-01-16T23:15:55 IST" name="Default test" finished-at="2024-01-16T23:15:55 IST" duration-ms="102">
+      <class name="assertions.Assertions">
+        <test-method signature="Assert()[pri:0, instance:assertions.Assertions@55a147cc]" started-at="2024-01-16T23:15:55 IST" name="Assert" finished-at="2024-01-16T23:15:55 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assert -->
+        <test-method signature="add()[pri:0, instance:assertions.Assertions@55a147cc]" started-at="2024-01-16T23:15:55 IST" name="add" finished-at="2024-01-16T23:15:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="soft()[pri:0, instance:assertions.Assertions@55a147cc]" started-at="2024-01-16T23:15:55 IST" name="soft" finished-at="2024-01-16T23:15:55 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- soft -->
+        <test-method signature="testExample()[pri:0, instance:assertions.Assertions@55a147cc]" started-at="2024-01-16T23:15:55 IST" name="testExample" finished-at="2024-01-16T23:15:55 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExample -->
+      </class> <!-- assertions.Assertions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
